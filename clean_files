@@ -1,0 +1,7 @@
+#!/bin/bash
+
+rm -rf fastGen_C.* galice.root Kinematics.root rootlogon.C OUTPUT
+rm -rf jobfiles/data/*
+rm -rf jobfiles/log/*
+rm -rf jobfiles/err/*
+rm -rf jobfiles/out/*
